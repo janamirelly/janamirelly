@@ -5,6 +5,10 @@
 
 
 
+
+## Linguagens
+
+
 - ![janamirelly GitHub stats](https://github-readme-stats.vercel.app/api?username=janamirelly&show_icons=true&theme=transparent)
 
 
