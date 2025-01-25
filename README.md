@@ -15,4 +15,4 @@
 
 
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janamirelly&hide_progress=true)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-3angs/?username=janamirelly&hide_progress=true)
