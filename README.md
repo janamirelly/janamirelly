@@ -1,3 +1,3 @@
 - 👋 Olá seja bem-vindo (a), ao meu GitHub @janamirelly
 
-- ![HTML] (https://skillicons.dev/icons?i=html)
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
