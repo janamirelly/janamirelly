@@ -1,5 +1,5 @@
  <div align="left" style="display: flex; align-items: center; gap: 20px;">
- <img src="https://raw.githubusercontent.com/janamirelly/janamirelly/main/fotojana.jpg" alt="Foto de Janayna Mirelly" width="160" style="border-radius: 50%; border: 4px solid #6C63FF;">
+ <img src="https://raw.githubusercontent.com/janamirelly/janamirelly/main/fotojana.jpg" alt="Foto de Janayna Mirelly" width="170" style="border-radius: 50%; border: 4px solid #6C63FF;">
 
 # Olá! Eu sou a Janayna Mirelly 👋
 
