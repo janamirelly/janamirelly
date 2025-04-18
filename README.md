@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/janamirelly/janamirelly/main/fotojana.jpg" width="180" alt="Foto de Janayna Mirelly" style="border-radius: 50%">
-</p>
 
 <h1 align="center">Olá! Eu sou a Janayna Mirelly 👋</h1>
 
