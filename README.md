@@ -1,34 +1,42 @@
-<table>
-  <tr>
-    <td width="170">
-      <img src="https://raw.githubusercontent.com/janamirelly/janamirelly/main/fotojana.jpg" alt="Foto de Janayna Mirelly" width="160" style="border-radius: 50%; border: 4px solid #6C63FF;">
-    </td>
-    <td>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/janamirelly/janamirelly/main/fotojana.jpg" width="180" alt="Foto de Janayna Mirelly" style="border-radius: 50%">
+</p>
 
-# Olá! Eu sou a Janayna Mirelly 👋
+<h1 align="center">Olá! Eu sou a Janayna Mirelly 👋</h1>
 
-💻 Desenvolvedora em formação  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNIP - 3º semestre)  
-🚀 Em busca da primeira oportunidade como estagiária em TI  
-🎯 Foco em Front-End e construção de interfaces modernas  
-📍 Brasil  
+<p align="center">
+  💻 Desenvolvedora em formação • 🎓 UNIP - 3º semestre • 🚀 Buscando estágio em TI<br>
+  🎯 Foco em Front-End • 📍 Brasil
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/janayna-mirelly-5aa8855/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:janaynamirelly@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://janamirelly.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+</p>
 
 ---
 
 ### ✨ Sobre mim
 
 - 👩‍💻 Em formação Front-End pela **Alura**
-- 💡 Portfólio com projetos como:
+- 📚 Estudando HTML, CSS, JavaScript e Git
+- 🛠 Portfólio com projetos como:
   - Calculadora de IMC  
   - Jogo de Adivinhação  
   - Currículo Online
-- 📌 Estudando HTML, CSS, JavaScript e Git
 
 ---
 
 ### 🛠 Tecnologias
 
-<div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
@@ -46,15 +54,8 @@
 
 ---
 
-### 📫 Me encontre
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/janayna-mirelly-5aa8855/)  
-[![Email](https://img.shields.io/badge/E--mail-red?style=for-the-badge&logo=gmail)](mailto:janaynamirelly@gmail.com)  
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=google-chrome)](https://janamirelly.github.io/Portfolio/)
-
----
-
 ⭐ Obrigada por visitar meu perfil!
+
 
 
 
