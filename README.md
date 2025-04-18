@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="170">
-      <img src="https://raw.githubusercontent.com/janamirelly/janamirelly/main/81781.jpg" alt="Foto de Janayna Mirelly" width="160" style="border-radius: 50%; border: 4px solid #6C63FF;">
+      <img src="https://raw.githubusercontent.com/janamirelly/janamirelly/main/fotojana.jpg" alt="Foto de Janayna Mirelly" width="160" style="border-radius: 50%; border: 4px solid #6C63FF;">
     </td>
     <td>
 
