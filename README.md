@@ -26,7 +26,9 @@
 - 📚 Estudando HTML, CSS, JavaScript e Git
 - 🛠 Portfólio com projetos como:
   - Calculadora de IMC  
-  - Jogo de Adivinhação  
+  - Jogo de Adivinhação
+  - Sites Responsivos
+  - Projeto com Bootstrap5  
   - Currículo Online
 
 ---
