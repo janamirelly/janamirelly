@@ -23,7 +23,7 @@
 ### ✨ Sobre mim
 
 - 👩‍💻 Em formação Front-End pela **Alura**
-- 📚 Estudando HTML, CSS, JavaScript e Git
+- 📚 Estudando HTML, CSS, JavaScript, React, Git e Github.
 - 🛠 Portfólio com projetos como:
   - Calculadora de IMC  
   - Jogo de Adivinhação
