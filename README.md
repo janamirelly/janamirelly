@@ -46,10 +46,10 @@ Meu objetivo é iniciar minha trajetória profissional como **Desenvolvedora Fro
 ---
 
 ### 💼 Projetos em destaque
-- 🏦 [**NexaBank**](https://github.com/janamirelly/nexabank) – Interface de banco digital desenvolvida com **HTML, CSS e JavaScript**, simulando funcionalidades de login e experiência de usuário de um app financeiro moderno.  
-- 🎯 [**Calculadora de IMC**](https://github.com/janamirelly/imc-calculator) – App que calcula o IMC e classifica o resultado com base no peso e altura do usuário.  
-- 🧩 [**Jogo de Adivinhação**](https://github.com/janamirelly/jogo-adivinhacao) – Projeto interativo com JavaScript puro para praticar lógica e manipulação do DOM.  
-- 💼 [**Currículo Online**](https://github.com/janamirelly/curriculo-online) – Página pessoal criada com HTML e CSS para destacar habilidades, portfólio e contato.
+- 🏦 [**NexaBank**](https://janamirelly.github.io/Projeto-Nexabank/) – Interface de banco digital desenvolvida com **HTML, CSS e JavaScript**, simulando funcionalidades de login e experiência de usuário de um app financeiro moderno.  
+- 🎯 [**Calculadora de IMC**](https://janamirelly.github.io/Portfolio/imc_calculator.html) – App que calcula o IMC e classifica o resultado com base no peso e altura do usuário.  
+- 🧩 [**Jogo de Adivinhação**](https://janamirelly.github.io/Portfolio/todo.html) – Projeto interativo com JavaScript puro para praticar lógica e manipulação do DOM.  
+- 💼 [**Currículo Online**](https://janamirelly.github.io/Curriculo/) – Página pessoal criada com HTML e CSS para destacar habilidades, portfólio e contato.
 
 ---
 
