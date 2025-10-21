@@ -74,7 +74,7 @@ Meu objetivo é iniciar minha trajetória profissional como **Desenvolvedora Fro
 
 ### 📫 Contato
 💼 [LinkedIn](https://www.linkedin.com/in/janayna-mirelly-dev)  
-💻 [Portfólio no GitHub](https://github.com/janamirelly)  
+💻 [Portfólio no GitHub](https://janamirelly.github.io/Portfolio/)  
 📧 janaynamirelly@gmail.com  
 
 ---
