@@ -40,8 +40,7 @@ Meu objetivo é iniciar minha trajetória profissional como **Desenvolvedora Fro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg " width="45">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg " width="45">
+  
 </div>
 
 ---
@@ -59,6 +58,9 @@ Meu objetivo é iniciar minha trajetória profissional como **Desenvolvedora Fro
 - **Formação Carreira Front-End – Alura** (em andamento).
 - **Formação Carreira Back-End – Alura** (em andamento).
 
+---
+
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -68,7 +70,14 @@ Meu objetivo é iniciar minha trajetória profissional como **Desenvolvedora Fro
 
 ---
 
-⭐ Obrigada por visitar meu perfil!
+### 📫 Contato
+💼 [LinkedIn](https://www.linkedin.com/in/janayna-mirelly-dev)  
+💻 [Portfólio no GitHub](https://github.com/janamirelly)  
+📧 janaynamirelly@gmail.com  
+
+---
+
+⭐ *“Cada linha de código é um passo em direção ao meu objetivo.”*
 
 
 
