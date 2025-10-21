@@ -24,7 +24,6 @@
 
 ### ✨ Sobre mim
 
-### 🧠 Sobre mim  
 Sou apaixonada por tecnologia e estou em transição de carreira para a área de **desenvolvimento web**. Tenho me dedicado intensamente aos estudos de **HTML, CSS, JavaScript, Node.js e React**, com foco em construir interfaces modernas, acessíveis e responsivas.  
 
 Meu objetivo é iniciar minha trajetória profissional como **Desenvolvedora Front-End Júnior**, aplicando boas práticas de código, aprendizado contínuo e colaboração em equipe. 
