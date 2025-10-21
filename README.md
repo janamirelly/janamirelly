@@ -2,8 +2,10 @@
 <h1 align="center">Olá! Eu sou a Janayna Mirelly 👋</h1>
 
 <p align="center">
-  💻 Desenvolvedora em formação • 🎓 Senac - 5º semestre • 🚀 Buscando oportunidades em vagas Junior de desenvolvimento web<br>
-  🎯 Foco em Front-End • 📍 Brasil
+ 💻 **Desenvolvedora Front-End em formação**  
+🎓 **Graduanda em Análise e Desenvolvimento de Sistemas – Senac (5º semestre)**  
+🚀 **Buscando oportunidades em vagas Júnior na área de Desenvolvimento Web**  
+📍 **Brasil**
 </p>
 
 <p align="center">
@@ -22,14 +24,10 @@
 
 ### ✨ Sobre mim
 
-- 👩‍💻 Em formação Front-End pela **Alura**
-- 📚 Estudando HTML, CSS, JavaScript, React, Git e Github.
-- 🛠 Portfólio com projetos como:
-  - Calculadora de IMC  
-  - Jogo de Adivinhação
-  - Sites Responsivos
-  - Projeto com Bootstrap5  
-  - Currículo Online
+### 🧠 Sobre mim  
+Sou apaixonada por tecnologia e estou em transição de carreira para a área de **desenvolvimento web**. Tenho me dedicado intensamente aos estudos de **HTML, CSS, JavaScript, Node.js e React**, com foco em construir interfaces modernas, acessíveis e responsivas.  
+
+Meu objetivo é iniciar minha trajetória profissional como **Desenvolvedora Front-End Júnior**, aplicando boas práticas de código, aprendizado contínuo e colaboração em equipe. 
 
 ---
 
@@ -42,9 +40,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg " width="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg " width="45">
 </div>
 
 ---
+
+### 💼 Projetos em destaque
+- 🏦 [**NexaBank**](https://github.com/janamirelly/nexabank) – Interface de banco digital desenvolvida com **HTML, CSS e JavaScript**, simulando funcionalidades de login e experiência de usuário de um app financeiro moderno.  
+- 🎯 [**Calculadora de IMC**](https://github.com/janamirelly/imc-calculator) – App que calcula o IMC e classifica o resultado com base no peso e altura do usuário.  
+- 🧩 [**Jogo de Adivinhação**](https://github.com/janamirelly/jogo-adivinhacao) – Projeto interativo com JavaScript puro para praticar lógica e manipulação do DOM.  
+- 💼 [**Currículo Online**](https://github.com/janamirelly/curriculo-online) – Página pessoal criada com HTML e CSS para destacar habilidades, portfólio e contato.
+
+---
+
+### 📚 Formação e estudos complementares
+- **Análise e Desenvolvimento de Sistemas – Senac EAD** (em andamento)  
+- **Formação Carreira Front-End – Alura** (em andamento).
+- **Formação Carreira Back-End – Alura** (em andamento).
 
 ### 📊 GitHub Stats
 
