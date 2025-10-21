@@ -2,7 +2,7 @@
 <h1 align="center">Olá! Eu sou a Janayna Mirelly 👋</h1>
 
 <p align="center">
-  💻 Desenvolvedora em formação • 🎓 Senac - 4º semestre • 🚀 Buscando estágio em TI<br>
+  💻 Desenvolvedora em formação • 🎓 Senac - 5º semestre • 🚀 Buscando oportunidades em vagas Junior de desenvolvimento web<br>
   🎯 Foco em Front-End • 📍 Brasil
 </p>
 
