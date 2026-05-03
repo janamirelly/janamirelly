@@ -2,24 +2,20 @@
 
 **Analista de Testes Júnior | QA Manual | Testes Funcionais | Testes de API | Postman | Jira | SQL**
 
-Sou formada em **Análise e Desenvolvimento de Sistemas** e direciono meus estudos e projetos para a área de **Quality Assurance**, com foco em testes manuais, validação funcional, testes de API, análise de regras de negócio e documentação de evidências.
+Sou formada em Análise e Desenvolvimento de Sistemas e direciono meus estudos e projetos para Quality Assurance, com foco em testes manuais, testes funcionais, validação de APIs, análise de regras de negócio e documentação de evidências.
 
-Atualmente, utilizo o projeto **VarejoSync** como ambiente prático para aplicar conceitos de QA em fluxos de vendas, estoque, promoções, descontos, formas de pagamento, dashboards e consistência entre interface, API e banco de dados.
+Utilizo o projeto VarejoSync como ambiente prático para validar fluxos de vendas, estoque, promoções, descontos, formas de pagamento, dashboards e consistência entre interface, API e banco de dados.
 
 ---
 
 ## Foco atual
 
-- Testes manuais e funcionais
-- Testes exploratórios
-- Cenários e casos de teste
-- Registro e acompanhamento de bugs
-- Documentação de evidências
-- Validação de regras de negócio
+- Testes manuais, funcionais e exploratórios
+- Cenários de teste e critérios de aceite
+- Registro de bugs e documentação de evidências
 - Testes de API com Postman
-- Consultas SQL para apoio à validação de dados
+- Consultas SQL para validação de dados
 - Organização de demandas com Jira
-- Critérios de aceite e Gherkin
 
 ---
 
@@ -27,7 +23,7 @@ Atualmente, utilizo o projeto **VarejoSync** como ambiente prático para aplicar
 
 ### VarejoSync — Sistema de Gestão de Varejo
 
-Projeto acadêmico e prático desenvolvido para simular fluxos reais de um sistema de varejo, com foco em vendas, estoque, promoções, descontos e indicadores gerenciais.
+Projeto acadêmico e prático desenvolvido para simular fluxos de um sistema de varejo, com foco em vendas, estoque, promoções, descontos e indicadores gerenciais.
 
 No projeto, aplico práticas de QA como:
 
@@ -77,7 +73,7 @@ No projeto, aplico práticas de QA como:
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/janayna-mirelly-dev)  
-[GitHub](https://github.com/janamirelly)
+[E-mail](mailto:janaynamirelly@gmail.com)
 
 
 
