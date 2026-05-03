@@ -17,7 +17,7 @@ Utilizo o projeto VarejoSync como ambiente prático para validar fluxos de venda
 - Consultas SQL para validação de dados
 - Organização de demandas com Jira
 
----
+
 
 ## Projeto em destaque
 
@@ -49,7 +49,7 @@ No projeto, aplico práticas de QA como:
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
----
+
 
 ## Base técnica complementar
 
@@ -67,7 +67,7 @@ No projeto, aplico práticas de QA como:
 
 [📄 Visualizar currículo em PDF](https://github.com/janamirelly/curriculo-qa-janayna/blob/main/pdf/Janayna_Mirelly_Curriculo_QA.pdf)
 
----
+
 
 ## Contato
 
