@@ -33,8 +33,7 @@ No projeto, aplico práticas de QA como:
 - Registro de bugs com comportamento esperado, comportamento obtido e evidências
 - Organização de demandas e critérios de aceite com apoio de Jira, Postman, SQL e GitHub
 
-**Repositório:**  
-[🔗 Acessar VarejoSync]([https://github.com/janamirelly/varejosync-poc])
+**Repositório:** [🔗 Acessar VarejoSync](https://github.com/janamirelly/varejosync-poc)
 
 ---
 
