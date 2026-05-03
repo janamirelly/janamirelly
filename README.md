@@ -1,84 +1,83 @@
+# Olá, eu sou a Janayna Mirelly
 
-<h1 align="center">Olá! Eu sou a Janayna Mirelly 👋</h1>
+**Analista de Testes Júnior | QA Manual | Testes Funcionais | Testes de API | Postman | Jira | SQL**
 
-<p align="center">
- 💻 **Desenvolvedora Front-End em formação**  
-🎓 **Graduanda em Análise e Desenvolvimento de Sistemas – Senac (5º semestre)**  
-🚀 **Buscando oportunidades em vagas Júnior na área de Desenvolvimento Web**  
-📍 **Brasil**
-</p>
+Sou formada em **Análise e Desenvolvimento de Sistemas** e direciono meus estudos e projetos para a área de **Quality Assurance**, com foco em testes manuais, validação funcional, testes de API, análise de regras de negócio e documentação de evidências.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/janayna-mirelly-5aa8855/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:janaynamirelly@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://janamirelly.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-</p>
+Atualmente, utilizo o projeto **VarejoSync** como ambiente prático para aplicar conceitos de QA em fluxos de vendas, estoque, promoções, descontos, formas de pagamento, dashboards e consistência entre interface, API e banco de dados.
 
 ---
 
-### ✨ Sobre mim
+## Foco atual
 
-Sou apaixonada por tecnologia e estou em transição de carreira para a área de **desenvolvimento web**. Tenho me dedicado intensamente aos estudos de **HTML, CSS, JavaScript, Node.js e React**, com foco em construir interfaces modernas, acessíveis e responsivas.  
-
-Meu objetivo é iniciar minha trajetória profissional como **Desenvolvedora Front-End Júnior**, aplicando boas práticas de código, aprendizado contínuo e colaboração em equipe. 
+- Testes manuais e funcionais
+- Testes exploratórios
+- Cenários e casos de teste
+- Registro e acompanhamento de bugs
+- Documentação de evidências
+- Validação de regras de negócio
+- Testes de API com Postman
+- Consultas SQL para apoio à validação de dados
+- Organização de demandas com Jira
+- Critérios de aceite e Gherkin
 
 ---
 
-### 🛠 Tecnologias
+## Projeto em destaque
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45">
-  
+### VarejoSync — Sistema de Gestão de Varejo
+
+Projeto acadêmico e prático desenvolvido para simular fluxos reais de um sistema de varejo, com foco em vendas, estoque, promoções, descontos e indicadores gerenciais.
+
+No projeto, aplico práticas de QA como:
+
+- Elaboração e execução de cenários de teste
+- Validação de regras de negócio no PDV
+- Conferência de consistência entre tela, API e dados persistidos
+- Registro de bugs com comportamento esperado, comportamento obtido e evidências
+- Organização de demandas e critérios de aceite com apoio de Jira, Postman, SQL e GitHub
+
+**Repositório:**  
+[🔗 Acessar VarejoSync]([https://github.com/janamirelly/varejosync-poc])
+
+---
+
+## Tecnologias e ferramentas
+
+<div>
+  <img src="https://img.shields.io/badge/QA%20Manual-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Testes%20Funcionais-2563eb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-f97316?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0f172a?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-334155?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-ef4444?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 ---
 
-### 💼 Projetos em destaque
-- 🏦 [**NexaBank**](https://janamirelly.github.io/Projeto-Nexabank/) – Interface de banco digital desenvolvida com **HTML, CSS e JavaScript**, simulando funcionalidades de login e experiência de usuário de um app financeiro moderno.  
-- 🎯 [**Calculadora de IMC**](https://janamirelly.github.io/Portfolio/imc_calculator.html) – App que calcula o IMC e classifica o resultado com base no peso e altura do usuário.  
-- 🧩 [**Jogo de Adivinhação**](https://janamirelly.github.io/Portfolio/todo.html) – Projeto interativo com JavaScript puro para praticar lógica e manipulação do DOM.  
-- 💼 [**Currículo Online**](https://janamirelly.github.io/Curriculo/) – Página pessoal criada com HTML e CSS para destacar habilidades, portfólio e contato.
+## Base técnica
 
----
-
-### 📚 Formação e estudos complementares
-- **Análise e Desenvolvimento de Sistemas – Senac EAD** (em andamento)  
-- **Formação Carreira Front-End – Alura** (em andamento).
-- **Formação Carreira Back-End – Alura** (em andamento).
-
----
-
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=janamirelly&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janamirelly&layout=compact&langs_count=7&theme=tokyonight" />
+<div>
+  <img src="https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-cc2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </div>
 
 ---
 
-### 📫 Contato
-💼 [LinkedIn](https://www.linkedin.com/in/janayna-mirelly-dev)  
-💻 [Portfólio no GitHub](https://janamirelly.github.io/Portfolio/)  
-📧 janaynamirelly@gmail.com  
+## Currículo
+
+[📄 Visualizar currículo em PDF](./pdf/Janayna_Mirelly_Curriculo_QA.pdf)
 
 ---
 
-⭐ *“Cada linha de código é um passo em direção ao meu objetivo.”*
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/janayna-mirelly-dev)  
+[GitHub](https://github.com/janamirelly)
 
 
 
