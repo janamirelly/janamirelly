@@ -65,7 +65,7 @@ No projeto, aplico práticas de QA como:
 
 ## Currículo
 
-[📄 Visualizar currículo em PDF](pdf/Janayna_Mirelly_Curriculo_QA.pdf)
+[📄 Visualizar currículo em PDF](https://github.com/janamirelly/curriculo-qa-janayna/blob/main/pdf/Janayna_Mirelly_Curriculo_QA.pdf)
 
 ---
 
