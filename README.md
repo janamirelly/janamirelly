@@ -51,7 +51,7 @@ No projeto, aplico práticas de QA como:
 
 ---
 
-## Base técnica
+## Base técnica complementar
 
 <div>
   <img src="https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
